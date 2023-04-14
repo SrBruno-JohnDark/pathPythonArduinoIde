@@ -9,6 +9,7 @@ comando "python3" por padrão.
 
 É um erro pequeno, mas impossibilita o uso da IDE por parte de uma pessoa iniciante.
 Dito isto, este script corrige o caminho da linguagem python dentro da biblioteca do ESP32,
+para ser mais especfico, no arquivo <b>platform.txt</b>
 
 >Antigo:
 >```
@@ -32,7 +33,7 @@ Dito isto, este script corrige o caminho da linguagem python dentro da bibliotec
 
 *Terceira parte*
 
->E por fim instala uma biblioteca para se comunicar com a placa corretamente:
+E por fim instala uma biblioteca para se comunicar com a placa corretamente:
 >```
 >pip3 install pyserial
 >```
