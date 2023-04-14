@@ -47,3 +47,7 @@ E por fim instala uma biblioteca para se comunicar com a placa corretamente:
 >```
 
 O único requisito para executar este script é ter instalado o <b>Python3</b>
+
+```
+Este script é de código aberto, livre para copiar e modificar, use como quiser, conhecimento é poder.
+This script is open source, free to copy and modify, use however you like, knowledge is power.
